@@ -1,1 +1,11 @@
 # My-first-project-akash
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First GitHub Website</title>
+</head>
+<body>
+    <h1>Hello Akash Ji!</h1>
+    <p>Ye aapki pehli website hai.</p>
+</body>
+</html>
